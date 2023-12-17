@@ -2,9 +2,6 @@
 
 I go by Tenne 🧺
 
-//I am currently working at  **[@Appwrite](https://github.com/appwrite)**
-//as an Operation Manager.
-
 🖤 Pronouns: She / Her
 
 - 🌱 Currently learning: How to cook 
@@ -15,6 +12,9 @@ I go by Tenne 🧺
 
 <!--
 **TenneG/TenneG** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+I am currently working at  **[@Appwrite](https://github.com/appwrite)**
+as an Operation Manager.
 
 Here are some ideas to get you started:
 
