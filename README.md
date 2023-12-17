@@ -2,8 +2,8 @@
 
 I go by Tenne 🧺
 
-I am currently working at  **[@Appwrite](https://github.com/appwrite)**
-as an Operation Manager.
+//I am currently working at  **[@Appwrite](https://github.com/appwrite)**
+//as an Operation Manager.
 
 🖤 Pronouns: She / Her
 
