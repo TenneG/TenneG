@@ -6,7 +6,7 @@ I go by Tenne 🧺
 
 - 🌱 Currently learning: How to cook 
 - 🎮 Currently playing: Binding of Issac 
-- 📺 Currently watching: American Horror Stories
+- 📺 Currently watching: American Horror Story
 
 - 🎥 Fun fact: I've watched most of what Netflix has to offer
 
